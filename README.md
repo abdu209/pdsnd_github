@@ -1,6 +1,6 @@
 ### Date created
 June 1st 2020. 
-New date update
+
 
 ### Project Title
 Udacity programming for data analysis with python
